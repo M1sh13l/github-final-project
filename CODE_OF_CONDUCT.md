@@ -48,6 +48,8 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at example@email.com.
+
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
